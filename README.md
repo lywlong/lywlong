@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lywlong
 - 👀 I’m interested in Microservices.
-- 🌱 I’m currently learning Permission framework of Spring Security.
+- 🌱 I’m currently learning Permission framework of Spring FrameWork.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me by 694569409@qq.com.
 
